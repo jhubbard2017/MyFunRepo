@@ -1,2 +1,1 @@
-# MyFunRepo
-Test Repo to upload files to
+This is the updated readme content
